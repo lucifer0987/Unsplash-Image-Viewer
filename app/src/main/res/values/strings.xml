@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bipolar task</string>
+    <string name="error_txt">An error has occurred. Try again later.</string>
+    <string name="image">image</string>
+</resources>
